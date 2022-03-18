@@ -1,6 +1,4 @@
-aligned_rectangles.png
-image.png
-ML intern_task1(3).pdf
-numbered_rectangles.png
-.ipynb_checkpoints/
-.ipynb
+
+.jovianrc
+*.ipynb_checkpoints/
+*.ipynb
